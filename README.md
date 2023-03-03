@@ -15,3 +15,5 @@ List of links for local host
 - (local host 4822)[http://127.0.0.1:4822]
 - (Virtual IP 4822)[https://165.225.8.40:4822]
 - (Virtual gateway 4822)[https://161.150.150.12:4822]
+- (Virtual IP 443)[https://165.225.8.40:443]
+- (Virtual gateway 443)[https://161.150.150.12:443]
