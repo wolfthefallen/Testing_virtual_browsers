@@ -17,3 +17,4 @@ List of links for local host
 - (Virtual gateway 4822)[https://161.150.150.12:4822]
 - (Virtual IP 443)[https://165.225.8.40:443]
 - (Virtual gateway 443)[https://161.150.150.12:443]
+- (Virtual hostname 443)[https://zsc-was1-2g5-sme/]
